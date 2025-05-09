@@ -1,0 +1,148 @@
+{
+  "titleMenu": [
+    {
+      "name": "1Password products",
+      "subMenu": [
+        { "name": "Extended Access Management", "url": "/" },
+        { "name": "Device Trust", "url": "/" },
+        { "name": "Enterprise Password Manager", "url": "/" },
+        { "name": "Personal Password Manager", "url": "/" },
+        { "name": "MSP Edition", "url": "/" },
+        { "name": "Passage", "url": "/" },
+        { "name": "Password generator", "url": "/" },
+        { "name": "Username generator", "url": "/" },
+        { "name": "Comparison", "url": "/" },
+        { "name": "Demos", "url": "/" },
+        { "name": "Switch", "url": "/" },
+        { "name": "Pricing", "url": "/" }
+      ]
+    },
+    {
+      "name": "Features",
+      "subMenu": [
+        { "name": "Autofill", "url": "/" },
+        { "name": "Password sharing", "url": "/" },
+        { "name": "Two-factor authentication", "url": "/" },
+        { "name": "Passkeys", "url": "/" }
+      ]
+    },
+    {
+      "name": "Solutions",
+      "subMenu": [
+        { "name": "Passwordless", "url": "/" },
+        { "name": "Device Security", "url": "/" },
+        { "name": "Compliance and Cyber Insurance", "url": "/" }
+      ]
+    },
+    {
+      "name": "Resources",
+      "subMenu": [
+        { "name": "Webinars", "url": "/" },
+        { "name": "Customer stories", "url": "/" },
+        { "name": "Resource library", "url": "/" },
+        { "name": "Blog", "url": "/" },
+        { "name": "Security", "url": "/" },
+        { "name": "Privacy", "url": "/" }
+      ]
+    },
+    {
+      "name": "Developers",
+      "subMenu": [
+        { "name": "Developer documentation", "url": "/" },
+        { "name": "Developer Community", "url": "/" },
+        { "name": "Secrets management", "url": "/" },
+        { "name": "Bug bounty", "url": "/" }
+      ]
+    },
+    {
+      "name": "Support",
+      "subMenu": [
+        { "name": "Help and Documentation", "url": "/" },
+        { "name": "Community", "url": "/" },
+        { "name": "Customer support", "url": "/" },
+        { "name": "Privacy support", "url": "/" }
+      ]
+    },
+    {
+      "name": "Company",
+      "subMenu": [
+        { "name": "About", "url": "/" },
+        { "name": "We're hiring!", "url": "/" },
+        { "name": "Press", "url": "/" },
+        { "name": "Podcast", "url": "/" },
+        { "name": "Newsletter", "url": "/" },
+        { "name": "Legal Center", "url": "/" },
+        { "name": "Trust Center", "url": "/" }
+      ]
+    },
+    {
+      "name": "Partners",
+      "subMenu": [
+        { "name": "Partnerships Overview", "url": "/" },
+        { "name": "1Password for MSPs", "url": "/" },
+        { "name": "1Password Marketplace", "url": "/" },
+        { "name": "Affiliate", "url": "/" }
+      ]
+    }
+  ],
+
+  "downloadMenu": {
+    "name": "Downloads",
+    "subMenu": [
+      { "name": "macOS", "url": "/" },
+      { "name": "Windows", "url": "/" },
+      { "name": "iOS", "url": "/" },
+      { "name": "Android", "url": "/" },
+      { "name": "Browser", "url": "/" },
+      { "name": "Linux", "url": "/" },
+      { "name": "CLI", "url": "/" }
+    ]
+  },
+
+  "bottomMenu": [
+    { "name": "Terms of Service", "url": "/" },
+    { "name": "Cookie Policy", "url": "/" },
+    { "name": "Your Privacy Choices", "url": "/" },
+    { "name": "Privacy Policy", "url": "/" },
+    { "name": "Accessibility", "url": "/" },
+    { "name": "Sitemap", "url": "/" }
+  ],
+  "icon": [
+    {
+      "name": "twitter",
+      "url": "/",
+      "src": "src/assets/images/icons/twitter.svg"
+    },
+    {
+      "name": "mastodon",
+      "url": "/",
+      "src": "src/assets/images/icons/mastodon.svg"
+    },
+    {
+      "name": "reddit",
+      "url": "/",
+      "src": "src/assets/images/icons/reddit.svg"
+    },
+    {
+      "name": "youtube",
+      "url": "/",
+      "src": "src/assets/images/icons/youtube.svg"
+    },
+    {
+      "name": "github",
+      "url": "/",
+      "src": "src/assets/images/icons/github.svg"
+    },
+    {
+      "name": "linkedin",
+      "url": "/",
+      "src": "src/assets/images/icons/linkedin.svg"
+    },
+    {
+      "name": "instagram",
+      "url": "/",
+      "src": "src/assets/images/icons/instagram.svg"
+    },
+    { "name": "wifi", "url": "/", "src": "src/assets/images/icons/wifi.svg" }
+  ]
+}

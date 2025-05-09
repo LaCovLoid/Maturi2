@@ -1,0 +1,11 @@
+// scss 전역변수 설정 가능, 다른곳에서도 사용 가능
+/* 예시용
+$white-color: #ffffff;
+$black-color: #000000;
+*/
+
+@mixin minimize() {
+  @media (max-width: 1200px) {
+    @content;
+  }
+}
