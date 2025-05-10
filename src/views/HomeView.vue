@@ -1,5 +1,5 @@
 <template>
-  <div class="home-container">homeView</div>
+  <div class="home-container">HomeView</div>
 </template>
 
 <script setup lang="ts"></script>

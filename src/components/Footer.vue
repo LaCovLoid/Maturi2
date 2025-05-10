@@ -1,5 +1,5 @@
 <template>
-  <div class="footer-container">footerView</div>
+  <div class="footer-container">Footer</div>
 </template>
 
 <script setup lang="ts"></script>
